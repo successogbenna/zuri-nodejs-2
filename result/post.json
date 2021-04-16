@@ -1,0 +1,38 @@
+{
+    "user":[{
+        "id":"1",
+        "firstName":"john Phipls",
+        "age":34,
+        "companyid":"1"
+
+    },
+    {
+        "id":"2",
+        "firstName":"mark Philips",
+        "age":22,
+        "companyid":"3"
+
+    },
+    {
+        "id":"3",
+        "firstName":"Elizzy odun",
+        "age":30,
+        "companyid":"2"
+
+    },
+    {
+        "id":"4",
+        "firstName":"AdaEze Ezenwa",
+        "age":34,
+        "companyid":"2"
+
+    }
+    ,{
+        "id":"5",
+        "firstName":"Korede Lizzy",
+        "age":41,
+        "companyid":"1"
+
+    }
+    ]
+}
